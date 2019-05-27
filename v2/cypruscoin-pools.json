@@ -1,5 +1,14 @@
 {
     "pools":[
+        
+        {
+            "name":"Arqma - Merged Mining",
+            "url":"https://multicoin.arqma.com/",
+            "api":"https://api.arqma.com/apiMerged1/stats",
+            "type":"unknown",
+            "miningAddress":"mine.arqma.com",
+            "mergedMining":true,
+            "mergedMiningIsParentChain":false
         {
             "name":"cnpool.cc",
             "url":"https://cnpool.cc/",
