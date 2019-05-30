@@ -81,15 +81,6 @@
             "miningAddress":"unknown",
             "mergedMining":false,
             "mergedMiningIsParentChain":false
-        },
-        {
-            "name":"xcy.profitbotpro.com",
-            "url":"https://xcy.profitbotpro.com",
-            "api":"https://xcy.profitbotpro.com/api/stats",
-            "type":"unknown",
-            "miningAddress":"unknown",
-            "mergedMining":false,
-            "mergedMiningIsParentChain":false
         }
     ]
 }
